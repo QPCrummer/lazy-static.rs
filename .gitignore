@@ -3,3 +3,4 @@ doc
 Cargo.lock
 .cargo
 wip
+/.idea
